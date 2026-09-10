@@ -1,4 +1,4 @@
-# 📱 Atividades Flet - Meu Appzinho
+# 📱 Atividades Flet 
 
 Projeto desenvolvido em **Python utilizando o Flet**, com o objetivo de praticar a criação de interfaces gráficas e a interação com elementos de uma aplicação.
 
@@ -68,9 +68,3 @@ Caso os termos não sejam aceitos, o sistema informa que é necessário aceitá-
 - Trabalhar com botões e eventos
 - Criar interações com o usuário
 - Praticar alinhamento e organização de elementos na tela
-
-## 👩‍💻 Autora
-
-**Mariana Nascimento**
-
-Projeto desenvolvido para fins educacionais.
